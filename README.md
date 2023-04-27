@@ -10,6 +10,7 @@ This feature doesn't stop the thread to hold the delay counter, so the best way 
 
 Exemple:
 
+<code>
 #include <iostream>
 #include "./DelaySystem.hpp"
 
@@ -37,3 +38,5 @@ int main()
 
     return EXIT_SUCCESS;
 }
+    
+    </code>
